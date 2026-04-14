@@ -10,13 +10,13 @@ Netra, terminal üzerinde çalışan, gerçek zamanlı ağ paket analizi ve izle
 
 ## Özellikler
 
-- 🚀 **Gerçek Zamanlı Paket Yakalama** - libpcap/Npcap entegrasyonu
-- 📊 **Canlı Dashboard** - Terminal tabanlı interaktif arayüz
-- 🔍 **Paket Analizi** - Detaylı protokol çözümleme
-- 🎯 **Filtreleme** - Görüntüleme filtreleri
-- 📈 **Performans Metrikleri** - Pipeline performans takibi
-- 🌍 **Çoklu Dil Desteği** - i18n desteği
-- 🔌 **Eklenti Sistemi** - Genişletilebilir mimari
+- **Gerçek Zamanlı Paket Yakalama** - libpcap/Npcap entegrasyonu
+- **Canlı Dashboard** - Terminal tabanlı interaktif arayüz
+- **Paket Analizi** - Detaylı protokol çözümleme
+- **Filtreleme** - Görüntüleme filtreleri
+- **Performans Metrikleri** - Pipeline performans takibi
+- **Çoklu Dil Desteği** - i18n desteği
+- **Eklenti Sistemi** - Genişletilebilir mimari
 
 ## Hızlı Başlangıç
 
@@ -143,13 +143,13 @@ Netra is a C++ based tool that runs in the terminal for real-time network packet
 
 ## Features
 
-- 🚀 **Real-Time Packet Capture** - libpcap/Npcap integration
-- 📊 **Live Dashboard** - Terminal-based interactive interface
-- 🔍 **Packet Analysis** - Detailed protocol parsing
-- 🎯 **Filtering** - Display filters
-- 📈 **Performance Metrics** - Pipeline performance tracking
-- 🌍 **Multi-Language Support** - i18n support
-- 🔌 **Plugin System** - Extensible architecture
+- **Real-Time Packet Capture** - libpcap/Npcap integration
+- **Live Dashboard** - Terminal-based interactive interface
+- **Packet Analysis** - Detailed protocol parsing
+- **Filtering** - Display filters
+- **Performance Metrics** - Pipeline performance tracking
+- **Multi-Language Support** - i18n support
+- **Plugin System** - Extensible architecture
 
 ## Quick Start
 
