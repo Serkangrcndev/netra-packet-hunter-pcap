@@ -1,4 +1,6 @@
 # Netra - Terminal Tabanlı Ağ Paket Analizörü
+<img width="1080" height="607" alt="ss" src="https://github.com/user-attachments/assets/a7da7f54-d437-44e0-9ab3-ec503e9b1f33" />
+<img width="1114" height="630" alt="Ekran görüntüsü 2026-04-14 183954" src="https://github.com/user-attachments/assets/fde1b573-8653-403b-b5e5-bd9c3f69c5eb" />
 
 [![C++ Standard](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
 [![CMake](https://img.shields.io/badge/CMake-3.20+-green.svg)](https://cmake.org/)
